@@ -22,7 +22,7 @@ I'm interested in building intelligent systems that combine
 **machine learning, software engineering, and real-world applications.**
 
 I enjoy experimenting with new technologies, working on AI projects,
-and occasionally disappearing into a completely unrelated side quest. 🎮
+and occasionally disappearing into a completely unrelated side quest. 🤔
 
 ---
 
