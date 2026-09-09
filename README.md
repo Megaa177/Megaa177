@@ -48,9 +48,3 @@ and occasionally disappearing into a completely unrelated side quest. 🎮
 - 🔬 Exploring LLMs, MCP & AI Agents
 
 ---
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Megaa177&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
